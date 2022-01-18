@@ -9,3 +9,4 @@ feature request as a new Issue.
 ## Microsoft Support Policy
 
 Support for **CyberBattle** is limited to the resources listed above.
+1
